@@ -5,8 +5,8 @@
  // @description  place inkunzi bot
  // @author       Thanks Kek.
  // @match        https://hot-potato.reddit.com/embed*
- // @updateURL    https://gist.github.com/Wrial/25cb6dad83c609f3c07002fb94a6ef1c/raw/placekatawa.user.js
- // @downloadURL  https://gist.github.com/Wrial/25cb6dad83c609f3c07002fb94a6ef1c/raw/placekatawa.user.js
+ // @updateURL    https://gist.githubusercontent.com/fluffe9911/da273a7937542c38d09373541a49c9ee/raw/3766eb4bdb8e7ecff5c5c9e163214bdc48083625/placeinkunzi.js
+ // @downloadURL  https://gist.githubusercontent.com/fluffe9911/da273a7937542c38d09373541a49c9ee/raw/3766eb4bdb8e7ecff5c5c9e163214bdc48083625/placeinkunzi.js
  // @grant        GM_xmlhttpRequest
  // @connect      raw.githubusercontent.com
  // ==/UserScript==
