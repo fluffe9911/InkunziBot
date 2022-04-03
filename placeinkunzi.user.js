@@ -1,7 +1,7 @@
 // ==UserScript==
  // @name         r/place IKZ bot
  // @namespace    http://tampermonkey.net/
- // @version      1.0
+ // @version      1.1
  // @description  place inkunzi bot
  // @author       Thanks Kek.
  // @match        https://hot-potato.reddit.com/embed*
@@ -43,8 +43,8 @@
          newDiv.style.color = "white";
          newDiv.style["z-index"] = "9999";
 
-         let xStart = 1830;
-         let yStart = 806;
+         let xStart = 511;
+         let yStart = 1396
          let xEnd = xStart + ata_template[0].length - 1;
          let yEnd = yStart + ata_template.length - 1;
          
